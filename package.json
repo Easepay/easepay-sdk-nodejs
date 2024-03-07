@@ -1,0 +1,28 @@
+{
+  "author": "adeoye adefemi <adefemiadeoye@yahoo.com>",
+  "bugs": {
+    "url": "https://github.com/easepay/easepay-sdk-nodejs/issues"
+  },
+  "description": "Easepay NodeJs SDK",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  },
+  "homepage": "https://github.com/easepay/easepay-sdk-nodejs#readme",
+  "keywords": [
+    "easepay",
+    "sdk",
+    "bitcoin",
+    "psp"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "easepay-sdk-nodejs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easepay/easepay-sdk-nodejs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
