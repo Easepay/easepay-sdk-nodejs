@@ -5,6 +5,8 @@
   },
   "description": "Easepay NodeJs SDK",
   "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4",
     "typescript": "^5.4.2"
   },
   "homepage": "https://github.com/easepay/easepay-sdk-nodejs#readme",
